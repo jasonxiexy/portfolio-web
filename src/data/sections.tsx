@@ -67,21 +67,21 @@ export const sections = [
             company: "University of Toronto (Interactive Media Lab)",
             date: "2024 - Now",
             title: "Software Developer Intern",
-            description: ["working on performance dashboard platform"],
+            description: ["working on health-tech logistics platform"],
             dotColor: "bg-blue-500"
           },
           {
             company: "ZTE Corporation",
             date: "2023 - 2023",
             title: "Software Engineer Intern",
-            description: ["worked on CI/CD test optimization"],
+            description: ["worked on infrastructure monitoring system"],
             dotColor: "bg-indigo-500"
           },
           {
             company: "Western University",
             date: "2022 - 2023",
-            title: "Research Assistant",
-            description: ["wokred on GAN research for 3D environment generation"],
+            title: "Software Developer Intern",
+            description: ["worked on performance dashboard platform"],
             dotColor: "bg-purple-500"
           }
         ].map((item) => (
