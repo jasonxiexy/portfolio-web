@@ -65,9 +65,9 @@ export const sections = [
         {[
           {
             company: "University of Toronto (Interactive Media Lab)",
-            date: "2024 - Now",
+            date: "2024 - 2025",
             title: "Software Developer Intern",
-            description: ["working on health-tech logistics platform"],
+            description: ["worked on health-tech logistics platform"],
             dotColor: "bg-blue-500"
           },
           {

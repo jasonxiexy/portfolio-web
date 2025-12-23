@@ -52,6 +52,7 @@ const Footer = () => {
               </motion.a>
             ))}
           </div>
+          <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fjxxy.me%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fjxxy.me%2F&label=Views&labelColor=%23697689&countColor=%23555555" /></a>
           <p className="text-xs text-gray-500 dark:text-gray-400 text-center px-4">
             © {new Date().getFullYear()} Jason Xie. All rights reserved.
           </p>
