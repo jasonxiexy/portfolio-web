@@ -64,6 +64,13 @@ export const sections = [
       <div className="space-y-4 mb-8">
         {[
           {
+            company: "Capital One",
+            date: "2026 - Present",
+            title: "Software Engineer",
+            description: ["working on fraud & disputes under card-tech"],
+            dotColor: "bg-blue-900"
+          },
+          {
             company: "University of Toronto (Interactive Media Lab)",
             date: "2024 - 2025",
             title: "Software Developer Intern",

@@ -8,9 +8,9 @@ import Home from './pages/Home';
 import Blog from './pages/Blog';
 // import SocialMedia from './pages/SocialMedia';
 // import About from './pages/Home';
-// import Gear from './pages/Gear';
-// import Contact from './pages/Contact';
-// import Gallery from './pages/Gallery';
+import Gear from './pages/Gear';
+import Contact from './pages/Contact';
+import Gallery from './pages/Gallery';
 import ScrollToTop from './utils/ScrollToTop';
 import { Layout } from './components/Layout';
 
@@ -74,7 +74,7 @@ const App = () => {
                     <Route path="/blog" element={<Blog />} />
                     {/* <Route path="/gear" element={<Gear />} /> */}
                     {/* <Route path="/contact" element={<Contact />} /> */}
-                    {/* <Route path="/gallery" element={<Gallery />} /> */}
+                    <Route path="/gallery" element={<Gallery />} />
                   </Routes>
                 </motion.div>
               </AnimatePresence>

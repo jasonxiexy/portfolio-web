@@ -150,7 +150,7 @@ const Contact = () => {
             </motion.a>
 
             <motion.a
-              href="https://www.instagram.com/philllip.che/"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-3 p-3 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all group"
@@ -198,7 +198,7 @@ const Contact = () => {
             </motion.a>
 
             <motion.a
-              href="https://discord.gg/mnp8Gf2mP2"
+              href="https://discord.gg/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-3 p-3 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600 transition-all group"
